@@ -10,3 +10,16 @@ The TopK Training GAN is a modification of the traditional GAN architecture that
 
 This implementation aims to provide an accessible and efficient implementation of the TopK Training GAN algorithm, allowing researchers and developers to experiment with this technique and compare it with other GAN approaches.
 
+
+## Contents
+
+This repository contains the following documents:
+
+1. [Project Presentation PowerPoint](Projet%20Science%20Des%20Données.pptx.pdf): A PowerPoint presentation that provides an overview of the project.
+
+2. [Paper Summary](Résumé%20Papier.pdf): A document summarizing the key points of the research paper "Top-k Training of GANs."
+
+3. [Jupyter Notebook](TopkTraining.ipynb): The code implementation of the TopK Training GAN in the form of a Jupyter Notebook.
+
+Feel free to explore and use these resources for your research and development needs.
+
